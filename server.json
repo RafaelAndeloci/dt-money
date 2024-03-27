@@ -15,6 +15,54 @@
       "category": "Alimentação",
       "price": 35,
       "createdAt": "2024-03-27T13:30:05.376Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite RocketSeat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2024-03-29T13:30:05.376Z"
+    },
+    {
+      "description": "Desenvolvimento de App",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2024-03-27T19:27:02.261Z",
+      "id": 4
+    },
+    {
+      "description": "Paleta Mexicana",
+      "type": "outcome",
+      "category": "Comida",
+      "price": 99,
+      "createdAt": "2024-03-27T19:31:23.650Z",
+      "id": 5
+    },
+    {
+      "description": "Iogurte de Banana",
+      "type": "outcome",
+      "category": "Alimentaçao",
+      "price": 4,
+      "createdAt": "2024-03-27T19:42:33.477Z",
+      "id": 6
+    },
+    {
+      "description": "Teste",
+      "type": "income",
+      "category": "Venda",
+      "price": 66,
+      "createdAt": "2024-03-27T19:42:57.481Z",
+      "id": 7
+    },
+    {
+      "description": "Bateu o carro",
+      "type": "outcome",
+      "category": "Acidente",
+      "price": 15000,
+      "createdAt": "2024-03-27T19:43:59.425Z",
+      "id": 8
     }
   ]
 }
